@@ -6,7 +6,6 @@ A simple and customizable Resume Builder web application that helps users create
 
 - **User-friendly Interface**: Easy-to-use form fields to input personal information, work experience, education, and skills.
 - **Real-time Preview**: View your resume in real-time as you input details.
-- **Customizable**: Modify resume templates, styles, and layouts.
 - **Downloadable PDF**: Export the resume in PDF format.
 - **Responsive Design**: Works well on both desktop and mobile devices.
 
